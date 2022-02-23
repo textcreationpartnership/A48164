@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend concerning the East India trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48164</idno>
+            <idno type="STC">Wing L1642</idno>
+            <idno type="STC">ESTC R36351</idno>
+            <idno type="EEBO-CITATION">15667246</idno>
+            <idno type="OCLC">ocm 15667246</idno>
+            <idno type="VID">104324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend concerning the East India trade</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and torn with some loss of print.</note>
+                  <note>Reproduction of the original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104324:1"/>
+            <p>A LETTER To a FRIEND. Concerning the Eaſt-India TRADE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104324:2"/>
+            <pb n="3" facs="tcp:104324:2"/>
+            <head>A LETTER To a FRIEND, Concerning the <hi>Eaſt-India</hi> Trade.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving lately received from you the <hi>Eaſt-India</hi> Company's Anſwers to the Rea<g ref="char:EOLhyphen"/>ſons for a Regulated Company, together with their Reaſons why a Joint-Stock will Beſt carry on the Trade; and your Commands to give you my Opinion therein, I moſt willing<g ref="char:EOLhyphen"/>ly ſubmit thereto, in hopes that I may thereby Convince you, and Confute them. I ſhall take them in order as they lye in their own Paper.</p>
+            <pb n="4" facs="tcp:104324:3"/>
+            <p n="1">1ſt. To the Trade's being more Extenſive in a Regulated Company: They Anſwer, and ſay, <hi>That tho' it be a ſpecious Argument, yet it is in Fact, directly contrary; for in the</hi> Muſcovy, Turkey, Hamborouh, and Eaſt-Land <hi>Companies, which are the only Regulated Companies in</hi> England, <hi>there are not ſo many actual Traders, as there are Perſons Concern<g ref="char:EOLhyphen"/>ed in the preſent</hi> Eaſt-India <hi>Joint-Stock;</hi> to which they add, <hi>That in a Regulated Company, the ſame is Circumſcribed to Experienced Trading Merchants, and no others; whereas in this Trade to</hi> India, <hi>all de<g ref="char:EOLhyphen"/>grees of Perſons, of the Nobility, Gentry, Clergy Wi<g ref="char:EOLhyphen"/>dows and Orphans, as well as Merchants, are, or may be Concerned in it, although not skilled in Trade.</hi>
+            </p>
+            <p>
+               <hi>If by Extenſive, they mean the Sum of Money Em<g ref="char:EOLhyphen"/>ployed, a Joint Stock is no more Confined to a parti<g ref="char:EOLhyphen"/>cular Sum of Money, than a Regulated Company: But can with great Eaſe extend the Trade to the utmoſt de<g ref="char:EOLhyphen"/>gree, as the Nature thereof is capable.</hi>
+            </p>
+            <p>If the <hi>Eaſt-India</hi> Company mean there are not half ſo many actual Traders in one of theſe four Companies, as there are Perſons Concerned in the <hi>Eaſt-India</hi> Joint Stock, I do grant it them; for none can imagin there is occaſion for ſo many Traders to <hi>Archangle,</hi> the only Port the <hi>Muſcovia</hi> Company Trade to, and requires not above For<g ref="char:EOLhyphen"/>ty Thouſond Pounds Stock.</p>
+            <p>But if they mean in all the Four Companies, then they are groſly miſtaken; there are above two thouſand <hi>Engliſh</hi> Men actual Traders to thoſe Places, within the limits of thoſe Companies Charters, beſides Foreigners, which are near as many more. And were thoſe Trades Reſtrain'd
+<pb n="5" facs="tcp:104324:3"/>to the <hi>Engliſh</hi> only, there would be more than three times the Number of the <hi>Engliſh</hi> Subjects Employed in that narrow Compaſs of Trade, than there are Concerned in the preſent Joint <hi>Eaſt-Inda</hi> Stock, whoſe Charter extends to far greater Territories than all <hi>Europe.</hi>
+            </p>
+            <p>Of the home Trades, experienced Merchants have generally the Advantage, though theſe want no Inſtances of ſeveral Perſons Employing the E<g ref="char:EOLhyphen"/>ſtates of others, that are not Traders, with their own in a joint Intereſt. But to Evidence clear<g ref="char:EOLhyphen"/>ly to you, that were this Trade ſetled in a Re<g ref="char:EOLhyphen"/>gulated Company, the Nobility, Gentry, Wi<g ref="char:EOLhyphen"/>dows, and Orphans, would have greater Oppor<g ref="char:EOLhyphen"/>tunities at all times to be concerned, than in a Joint Stock: I offer as an Inſtance thoſe Trading Ships which they call <hi>Interlopers,</hi> in which not above one third of the Perſons Concerned are Merchants, but their Stock is made up by voluntary Sub<g ref="char:EOLhyphen"/>ſcriptions, of all degrees of Perſons, who Chuſe known Experienced Merchants to Manage it for them, in which every Subſcriber hath a Vote; and no body can deny, but thoſe who deſire it may have ſeveral opportunities Yearly, of Enga<g ref="char:EOLhyphen"/>ging themſelves in ſuch particular Joint Stocks, without excluding all others, whoſe Circumſtan<g ref="char:EOLhyphen"/>ces will not at this time ſuffer them to Trade to <hi>India;</hi> and it is beyond all queſtion, That thoſe Merchants choſen fairly by every Adventurer, becauſe of their Experience and Honeſty, are fit<g ref="char:EOLhyphen"/>eſt and ableſt to carry it on, and much better than a Committee Choſen by Art, for ſome by purpoſes in Joint Stocks, without Regard had to
+<pb n="6" facs="tcp:104324:4"/>their Fitneſs and Qualifications. And thoſe Top<g ref="char:EOLhyphen"/>ping Men, who Influence the Choice of the Committees, do, and by their Intereſt are bound to Confine their Trade to particular Sums, and will not in any kind extend them to the Ad<g ref="char:EOLhyphen"/>vantage of the Nation, beyond their ſtated Pro<g ref="char:EOLhyphen"/>fits and private Deſigns; witneſs the many Di<g ref="char:EOLhyphen"/>vidents the <hi>Eaſt-India</hi> Campany have made, un<g ref="char:EOLhyphen"/>til they had nothing left them, on purpoſe (to uſe their own Words) to put themſelves out of the Power of a Parliament; after this, ſome of them lent the Stock 50 <hi>per Cent,</hi> at Intereſt, and ſince that, they made an Addition to their Stock, as they ſo called it, by a new Subſcription up<g ref="char:EOLhyphen"/>on their late Charter; but how much of this New Subſcription-Money was left for them to trade withal, I leave you to judge, when you ſhall have deducted the 10 <hi>per Cent.</hi> abatement, 50 <hi>per Cent.</hi> advanced, the Money exhauſted for ſecret Service, the loſs of their Stock Subſcribed by their own Members for the Company's Accompt, on purpoſe to draw in Honeſt and Harmleſs Mo<g ref="char:EOLhyphen"/>neyed Men, and what they Owed at Intereſt here in <hi>India</hi> before all this; by which means they have ſunk moſt of their Stock, ſtarved and dwind<g ref="char:EOLhyphen"/>led the Trade, nor had any Ships from <hi>China</hi> this long time, and in a manner loſt the Pepper Trade to the <hi>Dutch.</hi>
+            </p>
+            <p>In their Second Anſwer they ſay, <hi>It muſt be diſtinguiſhed, whether it's meant one Buyer in</hi> England, <hi>or</hi> India; <hi>if in</hi> England, <hi>a Joint Stock muſt buy in Common with others. As to Selling, the Goods of a joint Stock are always expos'd by Inch of Candle,
+<pb n="7" facs="tcp:104324:4"/>ſet up at low Rates, where every Perſon is admitted to Buy: But if it's meant Buying in</hi> India, <hi>it is clearly the Intereſt of</hi> England <hi>it ſhould be ſo; for by this means, the Commodities of</hi> England <hi>are Ad<g ref="char:EOLhyphen"/>vanced, and thoſe of</hi> India <hi>bought at lower Rates, ſo as not only to ſupply</hi> England <hi>much cheaper, but al<g ref="char:EOLhyphen"/>ſo the Foreign Markets as Cheap as their Neighbours.</hi> To which I Reply, That if the Company are the only Sellers of <hi>Eaſt-India</hi> Goods in <hi>England,</hi> they will, or may, have of us what price they pleaſe, by bringing home fewer than the Nation would expend, and feeding of it with no more than will yield them their own Rates; as the <hi>Dutch</hi> do with their Spices, which coſt them but little more than Pepper, yet they Sell them at this Extravagant Price by publick Sale, to the higheſt Bidder; as is the Practice with us by the Candle.</p>
+            <p>If they are the Buyers of our Engliſh Commo<g ref="char:EOLhyphen"/>dities; a Joint Stock muſt buy in Common with others; but they have a very great advantage over the Sellers, which I will clear by this in<g ref="char:EOLhyphen"/>ſtance: Suppoſing 30000 long Cloaths are made in <hi>England,</hi> 20000 or more of them are bought up for the <hi>European</hi> Markets, the Remaining muſt either be Sold for <hi>India,</hi> or lie on the Clo<g ref="char:EOLhyphen"/>thiers Hands. This latter the Clothiers cannot ſuffer, and carry on their Trades, and Employ their People, ſo they muſt Sell to this one Buyer for <hi>India</hi> at his own Rates; but if there were 30 or 40 Buyers, inſtead of this ſingle one, in a Joint Stock, it is reaſonable to believe, the Sel<g ref="char:EOLhyphen"/>lers would obtain both better Prices and Pay<g ref="char:EOLhyphen"/>ments.</p>
+            <pb n="8" facs="tcp:104324:5"/>
+            <p>As for a Joynt-Stock's buying of Goods in <hi>India,</hi> upon the ſame advantage they do our Goods in <hi>England,</hi> it ſeems to differ extreamly; becauſe in <hi>England,</hi> our Manufactors make their Goods for a general Market, not knowing before-hand to whom, or for what Trade they ſhall ſell them. Whereas in <hi>India</hi> they do not make Goods for an uncertain Market, but the <hi>European</hi> Buyers there do Contract with the <hi>Indian</hi> Merchants for the quantity, quality, and prizes of the Goods they want, and allowed time for their making, and delivery. By which means the <hi>Indians</hi> are not at the mercy of a Joynt-Stock for their Commodities; for if the <hi>Europeans</hi> will not give them their prices, they will not make them the Goods they want.</p>
+            <p>Indeed, a Joynt-Stock may carry to <hi>India</hi> a few <hi>Engliſh</hi> Goods, and impoſe their own Pri<g ref="char:EOLhyphen"/>ces on them, making them too dear for the <hi>Indians;</hi> but if many Perſons carry our Manu<g ref="char:EOLhyphen"/>factures thither, they muſt ſell them cheaper, to introduce the general uſe of them: And tho' the Merchant, by enlarging Exportation and the Importation, ſhould make the leſs profit, yet it's moſt evident the Nation will get the more. Beſides, the Companies Argument will hold as well for all the Trades in <hi>Europe,</hi> as that of <hi>India;</hi> and then we muſt have but one Buyer and one Seller for each Country.</p>
+            <p>Their Third Anſwer is, <hi>That the Years</hi> 1654, 1655, 1656. <hi>have given us a Chargeable Experi<g ref="char:EOLhyphen"/>ment; that opening the</hi> India <hi>Trade is not the means to regain it from the</hi> Dutch; <hi>for there
+<pb n="9" facs="tcp:104324:5"/>were divers Conſiderable Merchants that did then break in upon that Joynt Stock by way of Interlo<g ref="char:EOLhyphen"/>ping; who having continued that way of Trade for three or four years, found themſelves ſo over<g ref="char:EOLhyphen"/>matched by the <g ref="char:V">Ʋ</g>nited Joynt Stock of the</hi> Dutch, <hi>and impoſed upon by the Natives in</hi> India, <hi>in the point of Buying and Selling, that they themſelves, who had formerly broke in as aforeſaid upon that Company, were the Perſons that firſt applied to</hi> Oliver Cromwell <hi>for Establiſhing a Joynt Stock, in order to regain the ſaid Trade, and were the Perſons that firſt Subſcribed the ſame. By which means the Trade was regained to the Nation, when it was nigh loſt.</hi>
+            </p>
+            <p>
+               <hi>And they alſo ſay, it's ſo far from obviating the inconveniencies of the</hi> Scotch <hi>Act, that this Nation will not only find by them (as now conſti<g ref="char:EOLhyphen"/>tuted in a Joynt Stock) the like Inconveniencies they found from the</hi> Dutch, <hi>but rather greater, by the nearneſs of their Neighbourhood. Nor can any Nation cope, as to the</hi> Eaſt-India <hi>Trade, with others, unleſs Eſtabliſhed in a like Joynt Stock, ſupported with the like Priviledges and Immunities,</hi> &amp;c.</p>
+            <p>To this I ſay, That the <hi>Dutch</hi> in thoſe years of open Trade ſunk greatly in their Stock and Credit; by reaſon we then Imported great quantities of the <hi>Eaſt-India</hi> Commodities, and underſold them, whereby the Trade was enlarged, and the Nation enriched, though the Adventurers made the leſs profit.</p>
+            <p>This indeed might cauſe our then Merchants, for their own private intereſt, and not for the general good, to imbibe the <hi>Dutch</hi> Notion of
+<pb n="10" facs="tcp:104324:6"/>entring into a Joynt Stock (for that Company was then apprehenſive they ſhould loſe their Trade, if we did continue to keep ours open and free to all) and therefore our Merchants were induced to make their applications to <hi>Oliver Cromwell</hi> to ex<g ref="char:EOLhyphen"/>clude their fellow Subjects from this Trade, be<g ref="char:EOLhyphen"/>cauſe then they had the proſpect of getting as much by one Hundred Pound Stock, as in open Trade by three Hundred.</p>
+            <p>And ſince the Merchants of <hi>England</hi> could do ſo much in their Infancy, when they Traded looſe, and had nothing like the Experience and Stock they at preſent have, what will they not be able now to do, after their Skill, Experi<g ref="char:EOLhyphen"/>ence, and Stock is more than trebled, and they Trade in a Regulated Company, which can do all things for the defence and preſer<g ref="char:EOLhyphen"/>vation of their Trade, as well as a Company with a Joynt Stock, and improve it abundantly more, with a far leſs Charge. For the Com<g ref="char:EOLhyphen"/>pany cannot pretend to oppoſe the <hi>Dutch</hi> in <hi>In<g ref="char:EOLhyphen"/>dia</hi> in time of War, and in Peace it muſt be our Treaties and Strength at home, that muſt ſecure us againſt any of their Inſults abroad. And if the Natives impoſe any hardſhip upon us, it will not be our wiſdom to make War upon them, as the Company raſhly did, but procure the removal of them by means of an Ambaſſador, by Conſuls, and the uſual Pre<g ref="char:EOLhyphen"/>ſents: For the <hi>Indians</hi> are Men of that Senſe and Morality, that where they meet with ho<g ref="char:EOLhyphen"/>neſt and fair Dealing, there is no fear of their diſpleaſure. And at worſt, our Merchants will
+<pb n="11" facs="tcp:104324:6"/>have the ſame ſecurity in all the <hi>Mogull</hi>'s Ports, as the preſent Company have at <hi>Suratt,</hi> and in the <hi>Bay,</hi> where they have no Forts, yet drive their Chiefeſt Trades, and truſt the Natives with their Mony before hand.</p>
+            <p>And if all <hi>Engliſh-Men</hi> have the freedom of Trade to <hi>India,</hi> it cannot be ſuppoſed any of them will joyn with the <hi>Scotch,</hi> but every one will rather imploy his own Mony, if he be a Mer<g ref="char:EOLhyphen"/>chant; and if of any other Condition, intruſt it with his own Countrymen, whom he can rea<g ref="char:EOLhyphen"/>dily call to an account for what he ſhall ſo commit to his truſt.</p>
+            <p>Now if all the <hi>Engliſh</hi> decline the <hi>Scotch</hi> Company, they will want both Stock and Expe<g ref="char:EOLhyphen"/>rience to carry it on, and will ſink of themſelves.</p>
+            <p>Their Fourth Anſwer is, <hi>That all Perſons may at any time hereafter come into the Trade; for, notwithſtanding upwards of ſeven Hundred New Adventurers came into their Joynt Stock upon their laſt Subſcription in</hi> 1693. <hi>yet there hath been each year ſince great alterations of other New Adventurers. And it cannot be denied, but the</hi> Scotch <hi>will change its Owners, as People have oc<g ref="char:EOLhyphen"/>caſion to Sell, or Buy.</hi>
+            </p>
+            <p>To this I Reply, That any Man may Buy a Stock, if he will give them their Price, which may be treble the intrinſick value of all the Companie hath, were it ſold, and divided. But, ſay they, every thing is worth what it's bought and ſold for, which may be ſo in the opinion of the Buyer; but what loſſes have ariſen thereby? the Copper, the Salt-Petre, the Linnen, and many other Stocks, are ſuf<g ref="char:EOLhyphen"/>ficient
+<pb n="12" facs="tcp:104324:7"/>Teſtimonies, which have been raiſed by the ſame Arts uſed to mount the <hi>Eaſt-India</hi> Stock upon many occaſions, to the enriching the Great Men of it, and to the ruine of many Families.</p>
+            <p>But a Man cannot always come into that Joynt Stock, nor any other on the ſame Terms with the firſt Subſcribers. For inſtance, the preſent is now Sold at 60 <hi>per Cent.</hi> and up<g ref="char:EOLhyphen"/>wards (although according to its intrinſick value it's not worth 20.) Now ſuppoſe the ſaid Company ſhould to morrow be Eſtabliſh<g ref="char:EOLhyphen"/>ed by Act of Parliament Excluſive to others, no Perſon of what Degree ſoever, could Buy a Share in their Stock the ſame night, under one Hundred Pounds, and perhaps not under one Hundred and Fifty; and yet they would then have no more Riches than they have now.</p>
+            <p>By this it appears, that what pother ſoever they make about the Nobility, Gentry, Cler<g ref="char:EOLhyphen"/>gy, Widows, and Orphans, none can come into that Trade, if in a Joynt Stock, but upon great diſadvantages, except thoſe that are now actually concerned in it, or ſhall upon opening the Books Subſcribe to it. Whereas, were the Trade open to all, in a Regulated Company, every Ship being in the nature of a Joynt Stock, all ſorts of Perſons might at any time, when they can ſpare Money, or as they come of Age, be Intereſted in it upon the ſame Terms with any whatever.</p>
+            <pb n="13" facs="tcp:104324:7"/>
+            <p>Having now done with their Anſwers, I pro<g ref="char:EOLhyphen"/>ceed to their Reaſons.</p>
+            <p n="1">1ſt. <hi>It hath been found by common Experience, That all Nations who have had a deſire to procure to themſelves a Trade to</hi> India, <hi>have made <g ref="char:V">Ʋ</g>ſe of E<g ref="char:EOLhyphen"/>ſtabliſhing a Joint Stock, for the gaining thereof, and upon Tryal have found all other means ineffectual, and therefore have continued the ſame; and certainly the moſt proper means to preſerve a Trade, is the ſame by which it was at firſt acquired: And this was the Reaſon why the</hi> Scotch <hi>have choſe this Method, rather then a Regulated Company.</hi> To which I plain<g ref="char:EOLhyphen"/>ly Anſwer, That the main of this Reaſon is un<g ref="char:EOLhyphen"/>true in fact, and in the Concluſſon; for the <hi>Dutch</hi> did not procurre the Trade to themſelves by E<g ref="char:EOLhyphen"/>ſtabliſhing a Joint Stock; nor did they try any other means to find them ineffectual. But they obtain'd the Trade by a kind of War, the States Encouraging their Merchants by private Com<g ref="char:EOLhyphen"/>miſſions, to look into thoſe Seas,
+<note place="margin">
+                  <hi>Propoſal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for Selling the</hi> Eaſt-In<g ref="char:EOLhyphen"/>dia <hi>Trade.</hi>
+               </note> that they might bring down the Power of <hi>Spain</hi> (which then had that ſole Trade) in which they obtained wonderful Succeſs, as is at large ſet down in a Paper Printed the other day, to which I refer you) and partly by War, and partly by Trade, became ſo great, that they were in a manner another Common-Wealth; after which, they were Eſtabliſhed as they have ſince continued: Now ſhould the <hi>Dutch</hi> have kept on a perpetual War, to have preſerved their Trade, they would moſt certainly have found the contrary Conſe<g ref="char:EOLhyphen"/>quence, and have loſt it, as our preſent Company hath done: And this Aſſertion is equally Ridi<g ref="char:EOLhyphen"/>culous,
+<pb n="14" facs="tcp:104324:8"/>as to perſwade a grown Perſon to be held by Leading-ſtrings, becauſe he had by thoſe firſt learnt to go.</p>
+            <p>I flatter my ſelf, that all unbyaſſed Men will naturally Conclude, that were this Trade a <hi>Myſtery,</hi> the Maſters and firſt Diſcoverers of that Myſtery, they ought to Enjoy it only but fourteen Years, as the Law hath provided. But that Time once expired, and the <hi>Myſtery</hi> ſufficient<g ref="char:EOLhyphen"/>ly made known; uſed and practiſed by many Numbers of their fellow Subjects, whoſe Right it is become, will any Man in his Senſes de<g ref="char:EOLhyphen"/>clare, that the only way to Improve and En<g ref="char:EOLhyphen"/>large their Art or Invention, is to appropriate the Uſe of it to thoſe Perſons only for ever, who firſt acquired it.</p>
+            <p>But the preſent Company have not been the firſt Diſcoverers of this Trade, and yet have En<g ref="char:EOLhyphen"/>joyed it above Forty Years.</p>
+            <p>Nor is that Aſſertion true, That the <hi>Scotch</hi> for that very Reaſon choſe a Joint Stock; for they have had no Experience of that Trade, the pra<g ref="char:EOLhyphen"/>ctical part is ſtill a Myſtery to them; and they want Eſtates to undertake it: Theſe are moſt probably the Reaſons why the <hi>Scotch</hi> Parliament accepted the Propoſals of a Joint Stock; though I am apt to believe that the Projector's chief Deſign was the hopes of Gain by Stock<g ref="char:EOLhyphen"/>jobbing.</p>
+            <p n="2">2d. Reaſon, <hi>That in caſe of any Difference between the Traders and the</hi> Indians, <hi>the ſtrength a Joint Stock will Maintain in</hi> India, <hi>will enable them better to preſerve their Factories, and oblige the</hi> Indians <hi>to do them Juſtice.</hi>
+            </p>
+            <pb n="15" facs="tcp:104324:8"/>
+            <p n="3">3dly. <hi>That in caſe of any difference or diſpute with any</hi> European <hi>Nation in</hi> India, <hi>ſuch Joint Stocks will be beſt able to preſerve their Trade.</hi>
+            </p>
+            <p n="4">4thly. <hi>That it's very well known, the People of</hi> In<g ref="char:EOLhyphen"/>dia, <hi>how Moral ſoever ſaid to be, yet their Forms of Go<g ref="char:EOLhyphen"/>vernment do not admit thoſe open Ways to Juſtice, practiſed in</hi> Europe; <hi>wherefore the double Argu<g ref="char:EOLhyphen"/>ments of Force and Money to bribe the Government, muſt be always ready, otherwiſe upon every little Di<g ref="char:EOLhyphen"/>ſpute, they will over-run and ſeize the Perſons and Effects, of any Regulated or open Trader, which will always be fomented by the Joint Stocks of other</hi> Eu<g ref="char:EOLhyphen"/>ropean <hi>Nations.</hi>
+            </p>
+            <p>To which three together I Anſwer. Brave and Boldly ſaid, and had our Company as much Conſcience as they have Confidence to aſſert a<g ref="char:EOLhyphen"/>ny thing makes for them, whether Right or Wrong, they were worthy of a Mark of Di<g ref="char:EOLhyphen"/>ſtinction: Themſelves know that the two Ships, the <hi>Seamore</hi> and the <hi>Henry</hi> were admitted to Trade in <hi>India,</hi> and kindly uſed in the <hi>Mogul</hi>'s Dominions, although their Factors, by the Com<g ref="char:EOLhyphen"/>pany's own poſitive Orders, accuſed them as Py<g ref="char:EOLhyphen"/>rates, and Proſecuted them as ſuch very Indu<g ref="char:EOLhyphen"/>ſtriouſly, I may ſay, Unnaturally inſinuated the Belief thereof into them, becauſe they knew there could not be a more provoking Crime for thoſe People to puniſh, by reaſon of their vaſt Loſſes they had ſuſtained from Pyracy; and yet neither their Perſons nor Effects were ſeized and detain'd, after they were undeceived; but on the contrary, preſerved and well u<g ref="char:EOLhyphen"/>ſed. And in Caſe of any difference that may
+<pb n="16" facs="tcp:104324:9"/>ariſe between us and the <hi>Indians,</hi> or <hi>Europe<g ref="char:EOLhyphen"/>ans</hi> in <hi>India,</hi> a Regulated Company can by the Prudence and Honeſty of their Factors, Commanders of Ships, and by Preſents to the <hi>Indian</hi> Governours, by an Embaſſadour at the <hi>Mogul</hi>'s Court, and Conſuls, <hi>&amp;c.</hi> work the ſame, nay better effect upon them, than this pre<g ref="char:EOLhyphen"/>ſent Company; whoſe Forts and Caſtles are to very little, if any purpoſe at all, on ſuch occa<g ref="char:EOLhyphen"/>ſions. Our Honeſt and Juſt Dealing can only ſecure us amongſt them; and our Wooden Caſtles and Powers at Home can alone Protect us from the Affronts and Injuries of <hi>Europeans</hi> a<g ref="char:EOLhyphen"/>broad. So I enter upon their Fifth Reaſon.</p>
+            <p>
+               <hi>That in caſe of any conſiderable Loſs or want of Profit in the Trade, a Joint Stock muſt ſtill ſtruggle with it; their whole Stock being apporpriated for the Trade: whereas in a Regulated Company, or open Trade, every Man Trades as he pleaſes, and Diſconti<g ref="char:EOLhyphen"/>nues when he will; ſuch will Trade no longer than he finds the ſame to anſwer his Expectation, but will quit it upon the leaſt Diſcouragement.</hi>
+            </p>
+            <p>To which I reply, This might have ſome In<g ref="char:EOLhyphen"/>fluence, could they give the World an Inſtance where a profitable Trade (as we count this to <hi>India,</hi> in which is ſuch diverſity) hath been de<g ref="char:EOLhyphen"/>clined by the People of <hi>England,</hi> who are ſo far from leaving it upon the leaſt Diſcouragement. That I know no Trade (though it hath been carried on to loſs for many Years ſucceſſively, but it hath been not only maintained, but con<g ref="char:EOLhyphen"/>tinued to be overdone. Witneſs formerly the
+<pb n="17" facs="tcp:104324:9"/>
+               <hi>Newfound-Land, Mallaga, Virginia,</hi> and at preſent the <hi>Jamaica, Barbadoes, Leward-Iſland Trades,</hi> none of theſe have been ſtarved or neglected, notwith<g ref="char:EOLhyphen"/>ſtanding the incredible loſſes and diſappointments many of thoſe Merchants have ſuſtained. We want only ſcope and liberty to employ our induſtry and our Stocks againſt the <hi>Dutch,</hi> or any other Competitors. And might this Nation but ob<g ref="char:EOLhyphen"/>tain ſo great a Bleſſing, as to have this Trade open to them all in general, it would ſoon ap<g ref="char:EOLhyphen"/>pear, that as well in this, as in all other Trades, where the <hi>Dutch</hi> have a Company with a Joynt Stock, and we are left free, we ſhall greatly reduce their Trades, and enlarge ours.</p>
+            <p n="6">6. <hi>Whereas Joynt-Stocks have at a very vaſt Expence obtained many great Priviledges and Im<g ref="char:EOLhyphen"/>munities from the</hi> Indians, <hi>as Coyning of Money, Trading Cuſtom-free, and many others; which, if a Regulated Company, or open Trade be introduced, will be utterly loſt.</hi>
+            </p>
+            <p>This, as all the reſt, is but a ſpecious pre<g ref="char:EOLhyphen"/>tence; for whatever that of Coyning of Money may be, by which they can have no advantage, the impreſſion they give adding nothing to its value; all the other Priviledges they have,
+<note place="margin">
+                  <hi>Vide</hi> The Propoſals.</note> were obtained, not by this Company, but by others, and for the benefit of the <hi>Engliſh</hi> Nation; and ſo run all their <hi>Phirmaunds.</hi> And every private Ship that hitherto Traded in <hi>India,</hi> hath had the advantages thereof.</p>
+            <p n="7">7. <hi>It's very well known, that in the Year</hi> 1602. <hi>the</hi> Dutch <hi>ſeeing the Errors of a loſing Trade to</hi> In<g ref="char:EOLhyphen"/>dia, <hi>did after ſome years Experience, reduce the
+<pb n="18" facs="tcp:104324:10"/>whole into one <g ref="char:V">Ʋ</g>nited Joynt Stock, with ſuch Pri<g ref="char:EOLhyphen"/>viledges as they have enjoyed ever ſince; which hath carried that Trade to the heighth it now is. And it cannot be denied, but the genius of Trade hath ap<g ref="char:EOLhyphen"/>peared there in its utmoſt ſtrength. And it is to be feared, unleſs the like Methods be purſued in this Nation, the</hi> Eaſt-India <hi>Trade will paſs to ſome other Country; Trade always taking its Courſe where it finds the beſt treatment, and is allowed the greateſt Advantages.</hi>
+            </p>
+            <p n="8">8. <hi>But admitting a Regulated Trade might ſtruggle with ſome difficulties, yet in caſe of any Breach between the</hi> Engliſh <hi>and</hi> Dutch, <hi>certainly the whole Trade will be loſt, they being very ſtrong in</hi> India <hi>in num<g ref="char:EOLhyphen"/>bers of Subjects, and Fortifications, which have not on<g ref="char:EOLhyphen"/>ly been got by their being brought to a Joint Stock, but are now maintained, and daily Improving, which a Regulated Company can never withſtand.</hi>
+            </p>
+            <p>
+               <hi>And it is to be doubted, unleſs great Encouragement be given to a Joint Stock, they alſo will hardly be able, in ſuch caſe to continue, and preſerve the Trade to this Nation.</hi>
+            </p>
+            <p>To theſe, having in part anſwered already, I ſhall only add, that our <hi>Eaſt-India</hi> Company, with their Joint Stock, have not in time of War been able by force to Reſiſt the <hi>Dutch</hi> in the <hi>In<g ref="char:EOLhyphen"/>dies;</hi> and if you will believe the Letters from their own Chiefs and Conſuls from thence,
+<note place="margin">Vide <hi>the ſame Pro<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſals.</hi>
+               </note> there is no manner of appearance that they ever will; and the <hi>Dutch Eaſt-India</hi> Company, who have many Fortifications, never Erected any for ſuch a purpoſe; they know how pernicious War is, to any that are ſetled in a profitable Trade, in a potent Prince's Country.</p>
+            <pb n="19" facs="tcp:104324:10"/>
+            <p>But their Forts are to oppreſs the Inhabitants of the Spice and Pepper Iſlands, and force them to Trade with themſelves only, upon their own Terms; which yet turns to ſmall Accompt, as appears by their Inconſiderable Dividents (of 5 and 6. <hi>per Cent. per An.</hi> on the value of their Stock) in regard of their many Rich Ships Year<g ref="char:EOLhyphen"/>ly brought home by them of late: Such is their vaſt Charge of maintaining a Trade by Force, That were the ſame ſet open to all the Subjects of <hi>England</hi> in a Regulated Company; without being clogg'd with that unneceſſary Expence; it would ſoon appear, that when the <hi>Engliſh</hi> gain 30 to 40 <hi>per Cent.</hi> (which is a ſufficient Encou<g ref="char:EOLhyphen"/>ragement in times of Peace, to extend that Trade to the utmoſt) the <hi>Dutch Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany muſt be reduced; for nothing can ſo much bring down their Elevated Company, and diſ<g ref="char:EOLhyphen"/>courage any other Nation to fall into that Trade, than to Import the <hi>Eaſt-India</hi> Commodities in great quantities, and ſell them Cheaper in our Markets; ſo that if the whole Subſidie upon <hi>Eaſt-India</hi> Goods Exported, were drawn back, as the whole Additional Duty, and half the Subſidie now is; there needs, in my Opinion, no other Encouragement (befides that) to be given to that Trade.</p>
+            <p>But if the Parliament ſhall, after all, think fit to Eſtabliſh the Trade to <hi>India</hi> in a Joynt-Stock, it may be hoped they will not Eſtabliſh this pre<g ref="char:EOLhyphen"/>ſent Company, who have not merited ſo di<g ref="char:EOLhyphen"/>ſtinguiſhing a Favour; but take care to pre<g ref="char:EOLhyphen"/>ſerve the Right of the Subject; that all, of what <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
